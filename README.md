@@ -11,6 +11,8 @@
  target="_blank"> `Differential Equations`</a>
  <a href= https://github.com/catastropiyush/Teaching_vroom/tree/main/Numerical_Integration
  target="_blank"> `Numerical Calculus`</a>
+ <a href= https://github.com/catastropiyush/Teaching_vroom/tree/main/Machine%20Learning
+ target="_blank"> `Machine Learning ` </a>
   <a href= https://github.com/catastropiyush/kaam_ki_cheeze
  target="_blank"> `PhD positions`</a>
  
