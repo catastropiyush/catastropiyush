@@ -19,12 +19,6 @@
 #####  `M.Sc Thesis` : Molecular hydrogen formation on interstellar dust grains
 #####  `B.Sc Thesis` : Spiral structure and rotation curve of the Milky Way galaxy <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2267/1/012053" target="_blank"> Link</a>
 
-
-`Latitude scan of  galactic disc`
-
-![](https://github.com/catastropiyush/catastropiyush/blob/main/helo.gif) 
-
-
 #### `Blog`:  <a href="https://piyushmaharanacats.blogspot.com/" target="_blank">Catastrophysics</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
