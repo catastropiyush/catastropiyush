@@ -13,8 +13,6 @@
  target="_blank"> `Numerical Calculus`</a>
  <a href= https://github.com/catastropiyush/Teaching_vroom/tree/main/Machine%20Learning
  target="_blank"> `Machine Learning ` </a>
-  <a href= https://github.com/catastropiyush/kaam_ki_cheeze
- target="_blank"> `PhD positions`</a>
 
 #####  `M.Sc Thesis` : Molecular hydrogen formation on interstellar dust grains
 #####  `B.Sc Thesis` : Spiral structure and rotation curve of the Milky Way galaxy <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2267/1/012053" target="_blank"> Link</a>
