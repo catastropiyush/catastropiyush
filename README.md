@@ -6,14 +6,6 @@
 <a href="https://www.linkedin.com/in/piyush-ranjan-maharana-1b14b2197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-ranjan-maharana-1b14b2197/" height="20" width="30" /></a>
 </p>
 
-### Teaching Material
-<a href=https://github.com/catastropiyush/Teaching_vroom/tree/main/Differential_Equat
- target="_blank"> `Differential Equations`</a>
- <a href= https://github.com/catastropiyush/Teaching_vroom/tree/main/Numerical_Integration
- target="_blank"> `Numerical Calculus`</a>
- <a href= https://github.com/catastropiyush/Teaching_vroom/tree/main/Machine%20Learning
- target="_blank"> `Machine Learning ` </a>
-
 #####  `M.Sc Thesis` : Molecular hydrogen formation on interstellar dust grains
 #####  `B.Sc Thesis` : Spiral structure and rotation curve of the Milky Way galaxy <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2267/1/012053" target="_blank"> Link</a>
 
